@@ -7,12 +7,12 @@ Add possibility to chain together images, sprite animation or audio.
 
 Image gallery with sprites
 
-![Image gallery with sprite](Demo/ImageGallery-Image)
+![Image gallery with sprite](Demo/ImageGallery-Image.gif)
 
 
 Image gallery with sprite animation
 
-![Image gallery with sprite](Demo/ImageGallery-Animation)
+![Image gallery with sprite](Demo/ImageGallery-Animation.gif)
 
 
 ### Examples with AudioQueue
