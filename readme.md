@@ -15,7 +15,7 @@ Image gallery with sprite animation
 ![Image gallery with sprite](Demo/ImageGallery-Animation.gif)
 
 
-### Examples with AudioQueue
+### AudioQueue inspector view
 
 ![AudioQueue settings](Demo/AudioQueueSettings.png)
 
