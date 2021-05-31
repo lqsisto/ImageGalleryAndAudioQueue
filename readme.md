@@ -8,15 +8,15 @@ Transitions in image gallery are done by using DOTween tool.
 
 Image gallery with sprites
 
-![Image gallery with sprite](Demo/ImageGallery-Image.gif)
+![Image gallery with sprite](DemoImages/ImageGallery-Image.gif)
 
 
 Image gallery with sprite animation
 
-![Image gallery with sprite](Demo/ImageGallery-Animation.gif)
+![Image gallery with sprite](DemoImages/ImageGallery-Animation.gif)
 
 
 ### AudioQueue inspector view
 
-![AudioQueue settings](Demo/AudioQueueSettings.png)
+![AudioQueue settings](DemoImages/AudioQueueSettings.png)
 
