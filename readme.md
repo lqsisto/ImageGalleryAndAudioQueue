@@ -1,6 +1,7 @@
 # Image Gallery and Audio Queue
 
 Add possibility to chain together images, sprite animation or audio.
+Transitions in image gallery are done by using DOTween tool.
 
 
 ### Examples with image gallery
